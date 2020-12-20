@@ -11,6 +11,8 @@ public class AgeCalculation {
         int age = s1.nextInt();
         int age1 = age+10;
         System.out.println("You will be " + age1 + " after 10 yrs.");
-
+      
+        Scanner s11 = new Scanner(System.in);
+        System.out.println("what is git gub");
     }
 }
