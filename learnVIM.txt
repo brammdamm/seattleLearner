@@ -1,0 +1,21 @@
+
+:lineNumber to navigate to that line
+:/search  to search the specific line
+dd to delete the row 
+i to insert the text 
+u to undo the change
+
+
+
+
+
+
+
+
+
+Feb20-March20: 295.42
+Lincoln: plan =200 +19 = 219
+Bhaskar: 29.17+19 = 48.17
+Bimal: 19
+
+
